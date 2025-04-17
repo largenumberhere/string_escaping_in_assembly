@@ -3,6 +3,8 @@ This was a challenge in the segfault programming server on 17/04/2025.
 This solution only runs on linux. The code is in `src/`.
 Build and run it with `make`.
 
+Check out the solution!
+https://github.com/largenumberhere/string_escaping_in_assembly/commit/b8e02c7114a2bf9f71fd2e7674276b956fd6707d#diff-63ce4f05a2a3ad9013a97717ecb07b1e6b42fd80101ae88b5c98c121139401feR5
 
 ### Problem Description
 https://discord.com/channels/1214821796751081482/1362149134081065233
