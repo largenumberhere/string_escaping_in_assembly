@@ -36,4 +36,4 @@ Allowed:
 
 ## My solution
 This is the meat of my solution.
-https://github.com/largenumberhere/string_escaping_in_assembly/blob/f1080c05bdcf0cf55dcdd8727ef5673c6df3edad/src/convert.asm#L1-L785
+https://github.com/largenumberhere/string_escaping_in_assembly/blob/d6f93bee7246263de3dfd1ad3b595c7af0924dd9/src/convert.asm#L1-L145
